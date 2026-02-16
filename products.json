@@ -50,8 +50,20 @@
       "affiliateLink": "https://rishabhsing.me",
       "originalPrice": 33.0,
       "id": 4
+    },
+    {
+      "name": "Medicine",
+      "category": "accessories",
+      "price": 10.0,
+      "rating": 4.2,
+      "reviews": 1111,
+      "image": "https://raw.githubusercontent.com/rishabh11336/Punji_The_Labrador_Images-JSON/main/images/products/9056345c5d02453e9be6d61bc1a6f3fb.jpeg",
+      "description": "Gut Health Medicine",
+      "affiliateLink": "https://amzn.to/4qsoUHH",
+      "originalPrice": 15.0,
+      "id": 5
     }
   ],
-  "lastUpdated": "2026-02-16T04:31:35.583657Z",
+  "lastUpdated": "2026-02-16T04:39:26.252946Z",
   "version": "1.0"
 }
