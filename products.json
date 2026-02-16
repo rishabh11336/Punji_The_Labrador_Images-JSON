@@ -25,8 +25,21 @@
       "originalPrice": 24.99,
       "badge": "Great Value",
       "id": 2
+    },
+    {
+      "name": "Test Dog Chew Toy",
+      "category": "toys",
+      "price": 30.0,
+      "rating": 5.0,
+      "reviews": 1234,
+      "image": "https://raw.githubusercontent.com/rishabh11336/Punji_The_Labrador_Images-JSON/main/images/products/3d5371aa4e8943688a5786b38ee92f94.jpg",
+      "description": "fbb",
+      "affiliateLink": "https://amzn.to/test123",
+      "originalPrice": 40.0,
+      "badge": "Bestseller",
+      "id": 3
     }
   ],
-  "lastUpdated": "2026-02-16T03:08:28.023493Z",
+  "lastUpdated": "2026-02-16T03:18:27.072527Z",
   "version": "1.0"
 }
