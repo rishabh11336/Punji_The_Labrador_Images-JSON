@@ -12,8 +12,21 @@
       "originalPrice": 29.99,
       "badge": "Top Rated",
       "id": 1
+    },
+    {
+      "name": "Interactive Puzzle Ball",
+      "category": "toys",
+      "price": 15.99,
+      "rating": 4.8,
+      "reviews": 892,
+      "image": "https://raw.githubusercontent.com/rishabh11336/Punji_The_Labrador_Images-JSON/main/images/products/81fd1c65a1b6494681fd88209a1013b1.png",
+      "description": "Engage your dog's mind with this interactive puzzle ball that dispenses treats.",
+      "affiliateLink": "https://amzn.to/puzzleball123",
+      "originalPrice": 24.99,
+      "badge": "Great Value",
+      "id": 2
     }
   ],
-  "lastUpdated": "2026-02-14T15:32:44.548635Z",
+  "lastUpdated": "2026-02-16T03:08:28.023493Z",
   "version": "1.0"
 }
