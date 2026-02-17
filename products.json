@@ -1,10 +1,10 @@
 {
   "products": [
     {
-      "name": "Premium Dog Chew Bone",
+      "name": "Premium Dog Chew Bone - EDITED",
       "category": "toys",
-      "price": 19.99,
-      "rating": 4.9,
+      "price": 29.99,
+      "rating": 5.0,
       "reviews": 1523,
       "image": "https://raw.githubusercontent.com/rishabh11336/Punji_The_Labrador_Images-JSON/main/images/products/0c95f5a6cb3844c99a2ca2fa93a46a81.jpg",
       "description": "Long-lasting chew bone for large dogs. Promotes dental health.",
@@ -77,6 +77,6 @@
       "id": 6
     }
   ],
-  "lastUpdated": "2026-02-17T09:16:40.805335Z",
+  "lastUpdated": "2026-02-17T09:17:26.442782Z",
   "version": "1.0"
 }
