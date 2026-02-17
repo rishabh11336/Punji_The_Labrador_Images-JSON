@@ -62,21 +62,8 @@
       "affiliateLink": "https://amzn.to/4qsoUHH",
       "originalPrice": 15.0,
       "id": 5
-    },
-    {
-      "name": "Test Premium Toy",
-      "category": "toys",
-      "price": 499.0,
-      "rating": 4.7,
-      "reviews": 850,
-      "image": "https://raw.githubusercontent.com/rishabh11336/Punji_The_Labrador_Images-JSON/main/images/products/adfe7723f9c8442b80979c807098063d.png",
-      "description": "Amazing interactive toy for smart dogs",
-      "affiliateLink": "https://amzn.to/testlink123",
-      "originalPrice": 699.0,
-      "badge": "New Arrival",
-      "id": 6
     }
   ],
-  "lastUpdated": "2026-02-17T09:17:26.442782Z",
+  "lastUpdated": "2026-02-17T09:18:05.839111Z",
   "version": "1.0"
 }
