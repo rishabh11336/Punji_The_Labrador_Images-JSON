@@ -40,18 +40,6 @@
       "id": 3
     },
     {
-      "name": "Rishabh Test",
-      "category": "treats",
-      "price": 26.0,
-      "rating": 4.0,
-      "reviews": 543,
-      "image": "https://raw.githubusercontent.com/rishabh11336/Punji_The_Labrador_Images-JSON/main/images/products/d16f5110ec334d56a28482d5d45de49f.jpg",
-      "description": "ergerh",
-      "affiliateLink": "https://rishabhsing.me",
-      "originalPrice": 33.0,
-      "id": 4
-    },
-    {
       "name": "Medicine",
       "category": "accessories",
       "price": 10.0,
@@ -64,6 +52,6 @@
       "id": 5
     }
   ],
-  "lastUpdated": "2026-02-17T09:18:05.839111Z",
+  "lastUpdated": "2026-02-17T09:49:16.993075Z",
   "version": "1.0"
 }
